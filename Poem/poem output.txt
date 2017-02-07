@@ -1,0 +1,5 @@
+PRONOUN: (pn)her(a)clear(n)brother $END
+PREPOSITION: (p)through(a)clear(a)clear(n)brother(v)sinks(p)through(n)brother(p)through(a)clear(a)clear $END
+NOUN: (n)brother(v)sinks(p)through(a)clear(n)brother $END
+NOUN: (n)brother $END
+PREPOSITION: (p)through(n)brother(p)through(a)clear(a)clear(n)brother(p)through(a)clear(a)clear $END

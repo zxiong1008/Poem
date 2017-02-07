@@ -1,0 +1,12 @@
+F:\Users\Zengith\Desktop\Technical Test\Poem\Poem\bin\Debug\Poem.exe.config
+F:\Users\Zengith\Desktop\Technical Test\Poem\Poem\bin\Debug\Poem.exe
+F:\Users\Zengith\Desktop\Technical Test\Poem\Poem\bin\Debug\Poem.pdb
+F:\Users\Zengith\Desktop\Technical Test\Poem\Poem\obj\Debug\Poem.csprojResolveAssemblyReference.cache
+F:\Users\Zengith\Desktop\Technical Test\Poem\Poem\obj\Debug\Poem.exe
+F:\Users\Zengith\Desktop\Technical Test\Poem\Poem\obj\Debug\Poem.pdb
+F:\Users\Zengith\Desktop\Technical Test\Poem1\Poem\Poem\bin\Debug\Poem.exe.config
+F:\Users\Zengith\Desktop\Technical Test\Poem1\Poem\Poem\obj\Debug\Poem.exe
+F:\Users\Zengith\Desktop\Technical Test\Poem1\Poem\Poem\obj\Debug\Poem.pdb
+F:\Users\Zengith\Desktop\Technical Test\Poem1\Poem\Poem\bin\Debug\Poem.exe
+F:\Users\Zengith\Desktop\Technical Test\Poem1\Poem\Poem\bin\Debug\Poem.pdb
+F:\Users\Zengith\Desktop\Technical Test\Poem1\Poem\Poem\obj\Debug\Poem.csprojResolveAssemblyReference.cache
